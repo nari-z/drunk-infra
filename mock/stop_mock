@@ -1,0 +1,2 @@
+docker stop drunk_mock
+docker rm drunk_mock
